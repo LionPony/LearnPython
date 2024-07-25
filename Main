@@ -1,3 +1,83 @@
 # Hello World!
 # https://www.acmicpc.net/problem/2557
 HelloWorld.py
+
+# A+B
+# https://www.acmicpc.net/problem/1000
+APlusB.py
+
+# AxB
+# https://www.acmicpc.net/problem/10998
+AMultiplyB.py
+
+# A-B
+# https://www.acmicpc.net/problem/1001
+AMinusB.py
+
+# A/B
+# https://www.acmicpc.net/problem/1008
+ADivideB.py
+
+# 사칙연산
+# https://www.acmicpc.net/problem/10869
+Operations.py
+
+# 나머지
+# https://www.acmicpc.net/problem/10430
+Remain.py
+
+# A+B-2
+# https://www.acmicpc.net/problem/2558
+APlusBMinus2.py
+
+# 곱셈
+# https://www.acmicpc.net/problem/2588
+Multiply.py
+
+# R2
+# https://www.acmicpc.net/problem/3046
+R2.py
+
+# 초콜릿 자르기
+# https://www.acmicpc.net/problem/2163
+CutChoco.py
+
+# A+B-7
+# https://www.acmicpc.net/problem/11021
+APlusBMinus7.py
+
+# A+B-8
+# https://www.acmicpc.net/problem/11022
+APlusBMinus8.py
+
+# 오늘 날짜
+# https://www.acmicpc.net/problem/10699
+TodaysDate.py
+
+# 오븐 시계
+# https://www.acmicpc.net/problem/2525
+OvenClock.py
+
+# 인공지능 시계
+# https://www.acmicpc.net/problem/2530
+AIClock.py
+
+# 피시방 알바
+# https://www.acmicpc.net/problem/1453
+PCCafePT.py
+
+# 저작권
+# https://www.acmicpc.net/problem/2914
+Copyright.py
+
+# 화성 수학
+# https://www.acmicpc.net/problem/5355
+MarsMath.py
+
+# 문자열 반복
+# https://www.acmicpc.net/problem/2675
+RepeatString.py
+
+# 소음
+# https://www.acmicpc.net/problem/2935
+Noise.py
