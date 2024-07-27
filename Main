@@ -81,3 +81,119 @@ RepeatString.py
 # 소음
 # https://www.acmicpc.net/problem/2935
 Noise.py
+
+# 시험 성적
+# https://www.acmicpc.net/problem/9498
+TestScore.py
+
+# 세 수
+# https://www.acmicpc.net/problem/10817
+ThreeNum.py
+
+# 소인수분해
+# https://www.acmicpc.net/problem/11653
+Factorization.py
+
+# 수들의 합
+# https://www.acmicpc.net/problem/1789
+SumofNums.py
+
+# 윤년
+# https://www.acmicpc.net/problem/2753
+LeapYear.py
+
+# 평균 점수
+# https://www.acmicpc.net/problem/10039
+AverageScore.py
+
+# 최소공배수
+# https://www.acmicpc.net/problem/1934
+LeastCommonMultiple.py
+
+# 주사위 세 개
+# https://www.acmicpc.net/problem/2480
+ThreeDice.py
+
+# 크냐?
+# https://www.acmicpc.net/problem/4101
+IsItBig.py
+
+# 과자
+# https://www.acmicpc.net/problem/10156
+Snack.py
+
+# 네 번째 점
+# https://www.acmicpc.net/problem/3009
+ForthDot.py
+
+# 주사위 게임
+# https://www.acmicpc.net/problem/2476
+DiceGame.py
+
+# 학점 계산
+# https://www.acmicpc.net/problem/2754
+CreditCalculation.py
+
+# 알람 시계
+# https://www.acmicpc.net/problem/2884
+AlarmClock.py
+
+# 그릇
+# https://www.acmicpc.net/problem/7567
+Bowl.py
+
+# TGN
+# https://www.acmicpc.net/problem/5063
+TGN.py
+
+# 개표
+# https://www.acmicpc.net/problem/10102
+CountingVote.py
+
+# 0 = not cute / 1 = cute
+# https://www.acmicpc.net/problem/10886
+ZeroisNotCuteOneisCute.py
+
+# 팰린드롬인지 확인하기
+# https://www.acmicpc.net/problem/10988
+CheckPalindrome.py
+
+# 배수와 약수
+# https://www.acmicpc.net/problem/5086
+MutipleMeasure.py
+
+# 상근이의 친구들
+# https://www.acmicpc.net/problem/5717
+FriendsofSangGeun.py
+
+# 사분면
+# https://www.acmicpc.net/problem/9610
+Quadrant.py
+
+# OX퀴즈
+# https://www.acmicpc.net/problem/8958
+OXQuiz.py
+
+# 약수들의 합
+# https://www.acmicpc.net/problem/9506
+SumofMeasure.py
+
+# 전자레인지
+# https://www.acmicpc.net/problem/10162
+Microwave.py
+
+# 주사위 게임
+# https://www.acmicpc.net/problem/10103
+DoubleDice.py
+
+# Baseball
+# https://www.acmicpc.net/problem/10214
+Baseball.py
+
+# Yangjojang of The Year
+# https://www.acmicpc.net/problem/11557
+YangjojangofTheYear.py
+
+# 큰 수 A+B
+# https://www.acmicpc.net/problem/10757
+BigIntegerAPlusB.py
